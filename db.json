@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "0140",
+      "title": "The Rise of JavaScript",
+      "content": "JavaScript has evolved from a simple scripting language to the backbone of modern web",
+      "description": "A deep dive into the history, growth, and dominance of JavaScript in frontend and backend development",
+      "author": "Sarah Johnson"
+    },
+    {
+      "id": "9094",
+      "title": "Understanding React Hooks",
+      "content": "Hooks like useState and useEffect have transformed the way developers write React components.",
+      "description": "This post explains the basics of React Hooks with examples, making functional components more powerful.",
+      "author": "Michael Brown"
+    },
+    {
+      "id": "b572",
+      "title": "Exploring Node.js",
+      "content": "Node.js enables developers to run JavaScript on the server, opening up full-stack development possibilities.",
+      "description": "Learn about the features, advantages, and use cases of Node.js in building scalable applications.",
+      "author": "Emily Davis"
+    },
+    {
+      "id": "d52b",
+      "title": "CSS Tricks for Beginners",
+      "content": "CSS is more than just colors and fonts—it’s about layout, responsiveness, and accessibility",
+      "description": "A beginner-friendly guide to essential CSS techniques that every web developer should know.",
+      "author": "David Lee"
+    }
+    
+  
+  ]
+}
